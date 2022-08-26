@@ -2,7 +2,10 @@
 
 ## Overview
 
-ModuleDescription
+
+ラズパイマウスを検出した画像をx座標または、画像のヨー角に合わせて画像に追従する処理
+X_Inがx座標
+Yaw_Inがヨー角
 
 ## Description
 
